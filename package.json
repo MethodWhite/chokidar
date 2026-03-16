@@ -28,7 +28,7 @@
     "@types/node": "24.10.1",
     "prettier": "3.5.2",
     "tinyspy": "3.0.2",
-    "typescript": "5.9.2",
+    "typescript": "5.9.3",
     "upath": "2.0.1"
   },
   "sideEffects": false,
