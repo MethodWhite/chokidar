@@ -24,7 +24,7 @@
     "readdirp": "^5.0.0"
   },
   "devDependencies": {
-    "@paulmillr/jsbt": "0.4.5",
+    "@paulmillr/jsbt": "0.5.0",
     "@types/node": "25.5.0",
     "prettier": "3.8.1",
     "tinyspy": "4.0.4",
